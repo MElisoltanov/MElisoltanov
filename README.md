@@ -55,16 +55,6 @@ Currently exploring **Full-Stack Development** and **modern web technologies**.
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MElisoltanov-181717?style=for-the-badge&logo=github)](https://github.com/MElisoltanov)
-
-</div>
-
----
-
 <div align="center">
 
 ### 👁️ Profile Views
