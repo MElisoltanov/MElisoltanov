@@ -12,21 +12,9 @@
 
 ## 🚀 About Me
 
-```python
-class Student:
-    def __init__(self):
-        self.name = "MElisoltanov"
-        self.role = "Computer Science Student"
-        self.focus = "Web Development"
-        self.learning = ["Full-Stack", "Database Design", "Best Practices"]
-        self.motto = "Code, Learn, Repeat 🔄"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = Student()
-me.say_hi()
-```
+I’m a Computer Science student passionate about building reliable and efficient web applications.  
+I focus on **clean code**, **good design practices**, and **continuous learning**.  
+Currently exploring **Full-Stack Development** and **modern web technologies**.
 
 ---
 
