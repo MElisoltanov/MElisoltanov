@@ -13,7 +13,9 @@
 ## 🚀 About Me
 
 I’m a Computer Science student passionate about building reliable and efficient web applications.  
+
 I focus on **clean code**, **good design practices**, and **continuous learning**.  
+
 Currently exploring **Full-Stack Development** and **modern web technologies**.
 
 ---
