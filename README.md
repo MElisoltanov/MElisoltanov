@@ -1,9 +1,22 @@
-<div align="center">
+# MElisoltanov
 
-# Hey there, I'm MElisoltanov!
+## Web Developer
 
-### Web Developer
+### About Me
+I am a web developer focused on building modern, responsive, and user-friendly web applications. I specialize in creating scalable solutions and continuously improving my skills through hands-on development projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+web%2C+one+line+at+a+time;Always+learning%2C+always+coding;Welcome+to+my+GitHub!" alt="Typing SVG" />
+### Technical Skills
+- Frontend Development
+- Backend Development
+- Web Application Architecture
+- Responsive Design
+- Version Control (Git)
 
-</div>
+### Professional Focus
+- Building robust web applications
+- Writing clean, maintainable code
+- Implementing best practices
+- Continuous learning and improvement
+
+### Contact
+Feel free to reach out for collaboration opportunities or professional inquiries through GitHub.
