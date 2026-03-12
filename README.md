@@ -1,15 +1,12 @@
 <div align="center">
 
-# Bonjour, moi c'est Moussa 👋
-### Développeur Fullstack
-
-*Je construis des interfaces propres.*
+# Bonjour, moi c'est Moussa
 
 </div>
 
 ---
 
-## 🧭 Qui suis-je ?
+## Qui suis-je ?
 
 Développeur fullstack basé en France, je conçois et développe des sites et applications web de bout en bout, du design à la base de données. J'ai un goût prononcé pour le **code natif**, les architectures légères, et les interfaces qui ont du sens.
 
@@ -17,7 +14,7 @@ Quand je ne code pas, je cherche à comprendre comment les choses fonctionnent v
 
 ---
 
-## 🛠️ Stack & Outils
+## Stack & Outils
 
 **Frontend**
 ```
@@ -34,7 +31,7 @@ Python · Django · PostgreSQL
 Git · GitHub · VS Code · Figma · Procreate
 ```
 
-## 📈 Activité GitHub
+## Activité GitHub
 
 <div align="center">
 
@@ -46,7 +43,7 @@ Git · GitHub · VS Code · Figma · Procreate
 
 ---
 
-## 💼 Disponibilité
+## Disponibilité
 
 Je suis **ouvert aux opportunités** — freelance, mission, ou poste.
 
@@ -54,7 +51,7 @@ Que ce soit un site vitrine, une application web sur mesure, ou un audit de code
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 <div align="center">
 
