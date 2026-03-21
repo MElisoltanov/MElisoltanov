@@ -1,37 +1,45 @@
 <div align="center">
 
-# Bonjour, moi c'est Moussa
+# Hi, I'm Moussa
+
+Fullstack Developer — fast, reliable, and custom web solutions
 
 </div>
 
 ---
 
-## Qui suis-je ?
+## About Me
 
-Développeur fullstack basé en France, je conçois et développe des sites et applications web de bout en bout, du design à la base de données. J'ai un goût prononcé pour le **code natif**, les architectures légères, et les interfaces qui ont du sens.
+I'm a fullstack developer based in France, building **high-performance web applications** from user interface to database.
 
-Quand je ne code pas, je cherche à comprendre comment les choses fonctionnent vraiment.
+I focus on **simple, efficient, and maintainable architectures**, avoiding unnecessary complexity to deliver solid and long-lasting projects.
+
+My goal: create solutions that are **useful, efficient, and easy to understand**.
 
 ---
 
-## Stack & Outils
+## Stack & Tools
 
-**Frontend**
-```
+**Frontend**  
 React · HTML5 · CSS3 · JavaScript (ES6+)
-```
 
-**Backend**
-```
+**Backend**  
 Python · Django · PostgreSQL
-```
 
-**Outils & environnement**
-```
-Git · GitHub · VS Code · Figma · Procreate
-```
+**Tools & Environment**  
+Git · GitHub · VS Code · Figma
 
-## Activité GitHub
+---
+
+## Projects
+
+- 🔹 Movie recommendation app with rating system  
+- 🔹 SEO-optimized business website for a local company  
+- 🔹 Fullstack web platforms with complete frontend/backend integration  
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -43,20 +51,21 @@ Git · GitHub · VS Code · Figma · Procreate
 
 ---
 
-## Disponibilité
+## Availability
 
-Je suis **ouvert aux opportunités** — freelance, mission, ou poste.
-
-Que ce soit un site vitrine, une application web sur mesure, ou un audit de code existant, n'hésite pas à me contacter.
+Available for:
+- Freelance projects  
+- Custom web development  
+- Website optimization and refactoring  
 
 ---
 
-## Me contacter
+## Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Écrire-black?style=flat-square&logo=gmail)](mailto:contact@webelisol.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/moussa-elisoltanov-2b6a67381)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-black?style=flat-square&logo=firefox)](https://webelisol.com)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail)](mailto:contact@webelisol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moussa-elisoltanov-2b6a67381)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=firefox)](https://webelisol.com)
 
 </div>
