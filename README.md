@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="moussa.png" alt="cover" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi, I'm Moussa
 
