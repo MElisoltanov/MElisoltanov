@@ -6,7 +6,7 @@
 
 # Hi, I'm Moussa
 
-Fullstack Developer — fast, reliable, and custom web solutions
+Building simple, fast, and reliable web applications
 
 </div>
 
@@ -25,7 +25,7 @@ My goal: create solutions that are **useful, efficient, and easy to understand**
 ## Stack & Tools
 
 **Frontend**  
-React · HTML5 · CSS3 · JavaScript (ES6+)
+React · HTML5 · CSS3 · JavaScript
 
 **Backend**  
 Python · Django · PostgreSQL
