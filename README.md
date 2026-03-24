@@ -35,14 +35,6 @@ Git · GitHub · VS Code · Figma
 
 ---
 
-## Projects
-
-- 🔹 Movie recommendation app with rating system  
-- 🔹 SEO-optimized business website for a local company  
-- 🔹 Fullstack web platforms with complete frontend/backend integration  
-
----
-
 ## GitHub Activity
 
 <div align="center">
